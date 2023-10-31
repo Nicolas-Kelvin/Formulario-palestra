@@ -1,2 +1,2 @@
 # Formulario-palestra
- pagina workshop para palestra
+ Página workshop para palestra.
